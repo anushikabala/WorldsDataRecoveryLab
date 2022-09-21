@@ -1354,4 +1354,20 @@ font-weight:bolder;
 color:#fff;
 }
 
+#map{
+    text-align:center;
+	padding:3% 0% 0% 2%;
+  }
+  .map_inner h4, .map_inner p{
+      color: #000;
+      text-align: center  
+  }
+  .map_inner p{
+      font-size: 13px;
+  }
+  .map_bind{
+     margin-top: 50px;
+      border-radius: 30px;
+      overflow: hidden;
+  }
 /*Basic-Stylesheets-End-Here*/
